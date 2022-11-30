@@ -28,7 +28,7 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
  
 ## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/prabhasha2006/Red-Dragon/fork)
  
-## 🙂➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)
+## 🙂➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)https://github.com/prabhasha2006/Red-Dragon
 
 ## 🙂➾ [Red Dragon Bot Official Website Here](https://sites.google.com/view/red-dragon-bot/home)
 
