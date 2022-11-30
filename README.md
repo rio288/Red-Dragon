@@ -26,10 +26,10 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 
 ## 🙂➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
  
-## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/prabhasha2006/Red-Dragon/forkhttps://github.com/prabhasha2006/Red-Dragon)
+## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/prabhasha2006/Red-Dragon/forkhttps://github.com/rio288/Red-Dragon)
  
 ## 🙂➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)https://github.com/prabhasha2006/Red-Dragon
-https://github.com/prabhasha2006/Red-Dragon
+https://github.com/rio288/Red-Dragon
 ## 🙂➾ [Red Dragon Bot Official Website Here](https://sites.google.com/view/red-dragon-bot/home)
 
 
